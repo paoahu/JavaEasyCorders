@@ -6,7 +6,7 @@
 
 - **Lecciones Estructuradas:** Cada lección está cuidadosamente elaborada para introducir un concepto fundamental de la programación en Java. Los temas van desde la sintaxis básica y variables hasta temas más complejos como la programación orientada a objetos y el manejo de excepciones.
 - **Ejercicios Prácticos:** Después de cada lección, encontrarás ejercicios que te desafían a aplicar lo que has aprendido. Estas tareas prácticas ayudan a reforzar tu comprensión y mejorar tus habilidades de codificación.
-- **Soluciones:** ¡No te preocupes si te atascas! Se proporcionan soluciones para cada ejercicio para que puedas verificar tu trabajo o obtener una pista sobre cómo proceder.
+- **Soluciones:** ¡No te preocupes si te atascas! Se proporcionan soluciones para cada ejercicio para que puedas verificar tu trabajo.
   
 **Objetivos de este curso:**
 
@@ -31,7 +31,7 @@ _____________
 
 - **Structured Lessons:** Each lesson is carefully crafted to introduce a core concept of Java programming. Topics range from basic syntax and variables to more complex subjects like object-oriented programming and exception handling.
 - **Practical Exercises:** After each lesson, you'll find exercises that challenge you to apply what you've learned. These practical tasks help reinforce your understanding and improve your coding skills.
-- **Solutions:** Don't worry if you get stuck! Solutions are provided for each exercise so you can check your work or get a hint on how to proceed.
+- **Solutions:** Don't worry if you get stuck! Solutions are provided for each exercise so you can check your work.
   
 **Goals of this course:**
 
