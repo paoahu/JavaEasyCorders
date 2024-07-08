@@ -1,5 +1,6 @@
 - [Ejercicion 1](#ejercicio1)
 - [Ejercicion 2](#ejercicio2)
+- [Solucion Ejercicio 1](#solucionEjercicio1)
 
 ### Ejercicio1
 
@@ -26,3 +27,70 @@ e) Para cada objeto indica el valor que tienen los atributos de la clase a la cu
 f) ¿Con qué concepto de la POO se relaciona la frase en negrita?
 
 ### Ejercicio2
+
+# Solucion Ejercicio 1
+
+
+## a) Objetos o instancias que aparecen:
+1. Code Warriors
+2. Stream Giants
+3. CyberAce
+
+## b) Clases que veo:
+1. Equipo
+2. Jugador
+
+## c) Atributos y métodos de cada clase:
+
+**Clase `Equipo`**:
+- **Atributos**:
+  - nombre
+  - fecha_fundacion
+  - presupuesto
+  - direccion
+  - jugadores (lista de jugadores)
+- **Métodos**:
+  - hacerOferta(jugador, salario, años)
+  - ficharJugador(jugador)
+  - venderJugador(jugador)
+
+**Clase `Jugador`**:
+- **Atributos**:
+  - alias
+  - nombre
+  - salario
+- **Métodos**:
+  - entrenar()
+  - competir()
+  - aceptarOferta(oferta)
+  - rechazarOferta(oferta)
+
+## d) Clase a la que pertenece cada objeto:
+1. Code Warriors -> `Equipo`
+2. Stream Giants -> `Equipo`
+3. CyberAce -> `Jugador`
+
+## e) Valores de los atributos de cada objeto:
+
+**Code Warriors** (Clase: `Equipo`):
+- nombre: "Code Warriors"
+- fecha_fundacion: "12 de enero de 2010"
+- presupuesto: 2.000.000 €
+- direccion: "Calle Ficticia 123, Madrid"
+- jugadores: Desconocido
+
+**Stream Giants** (Clase: `Equipo`):
+- nombre: "Stream Giants"
+- fecha_fundacion: Desconocido
+- presupuesto: 3.500.000 €
+- direccion: "Avenida de los Streamers 45"
+- jugadores: Desconocido
+
+**CyberAce** (Clase: `Jugador`):
+- alias: "CyberAce"
+- nombre: Desconocido
+- salario: 120.000 € al año
+- equipo: "Cyber Knights"
+
+## f) Concepto de la POO relacionado con la frase en negrita:
+El concepto de la Programación Orientada a Objetos (POO) relacionado con la frase en negrita es **Polimorfismo**. En este contexto, significa que los jugadores pueden realizar acciones como entrenar, competir y aceptar o rechazar ofertas, mientras que los equipos pueden realizar acciones como hacer ofertas, fichar jugadores y vender jugadores. Las acciones que pueden realizar los objetos dependen de la clase a la que pertenecen.
